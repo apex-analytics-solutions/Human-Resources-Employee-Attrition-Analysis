@@ -1,9 +1,8 @@
 <h1>📊 Human Resources Employee Attrition Analysis</h1>
 
 <p>
-  <a href="https://example.com/your-profile-pic.png">
-    <img src="https://example.com/your-profile-pic.png" alt="Profile Picture" width="100" height="100" />
-  </a>
+  <a>
+    <img src="https://github.com/apex-analytics-solutions/Human-Resources-Employee-Attrition-Analysis/blob/main/HR%20Employee%20Attrition.png" alt="Profile Picture" /></a>
 </p>
 
 <h2>🎯 Project Objectives</h2>
